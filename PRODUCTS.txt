@@ -1,2 +1,2 @@
 ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
-1	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/TP-Link-TL-PA4010PKIT-TL-PA4010P-Powerline-Ba%C5%9Flang%C4%B1%C3%A7/dp/B00ADW9R22/?_encoding=UTF8&pd_rd_w=YGwPF&pf_rd_p=618015b5-25d4-4a6d-bf18-97583cd709c3&pf_rd_r=PHB0JS600P916VBP8QXQ&pd_rd_r=0172c289-c964-454a-be7d-4ad9d65e2e84&pd_rd_wg=cmBnE&ref_=pd_gw_trq_brcp	-1001196888144
+1	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/gp/product/B08LNY8P5L	-1001196888144

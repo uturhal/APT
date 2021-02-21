@@ -1,2 +1,6 @@
 ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
-1	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08LNY8P5L	-1001196888144
+1	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B07B4R8QGM	-1001196888144
+2	UK	https://www.amazon.co.uk	https://www.amazon.co.uk/dp/B07B4R8QGM	-1001196888144
+3	DE	https://www.amazon.de	https://www.amazon.de/dp/B07B4R8QGM	-1001196888144
+4	FR	https://www.amazon.fr	https://www.amazon.fr/dp/B07B4R8QGM	-1001196888144
+5	IT	https://www.amazon.it	https://www.amazon.it/dp/B07B4R8QGM	-1001196888144

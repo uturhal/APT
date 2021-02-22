@@ -253,3 +253,4 @@ ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
 252	DE	https://www.amazon.de	https://www.amazon.de/dp/B08R427DMQ/?1	-1001216732301
 253	FR	https://www.amazon.fr	https://www.amazon.fr/dp/B08R427DMQ/?1	-1001412533426
 254	IT	https://www.amazon.it	https://www.amazon.it/dp/B08R427DMQ/?1	-1001253195786
+255	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08HHZVZ3N/?1	-1001215441140

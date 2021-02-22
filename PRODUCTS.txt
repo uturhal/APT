@@ -253,4 +253,4 @@ ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
 252	DE	https://www.amazon.de	https://www.amazon.de/dp/B08R427DMQ/?1	-1001216732301
 253	FR	https://www.amazon.fr	https://www.amazon.fr/dp/B08R427DMQ/?1	-1001412533426
 254	IT	https://www.amazon.it	https://www.amazon.it/dp/B08R427DMQ/?1	-1001253195786
-255	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/dp/B08HHZVZ3N/?1	-1001215441140
+255	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/Gigabyte-GeForce-Vision-ekran-kart%C4%B1/dp/B08LNWPYRS/ref=pd_sbs_1?pd_rd_w=N0eUX&pf_rd_p=636c86b3-72da-48d1-abeb-7285a8c7abbc&pf_rd_r=MFQT4F9PVTZ0E6VBCMQ5&pd_rd_r=73d389d8-0a4e-43d3-95d7-c1a89e7928ee&pd_rd_wg=ZolJK&pd_rd_i=B08LNWPYRS&psc=1	-1001215441140

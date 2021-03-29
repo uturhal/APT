@@ -1,0 +1,2 @@
+ID	COUNTRY	BASE_URL	PRODUCT_URL	MAIN_CHANNEL	LOG_CHANNEL
+1	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/s?i=computers&bbn=12601951031&rh=n%3A12601951031%2Cp_6%3AA1UNQM1SR2CHM%7CA3O5TP4R0OZYXZ%2Cp_36%3A450000-%2Cp_n_availability%3A13136583031&s=date-desc-rank&dc&qid=1616267364&rnid=13136582031&ref=sr_nr_p_n_availability_2/?1	-1001215894181	-1001353017015
